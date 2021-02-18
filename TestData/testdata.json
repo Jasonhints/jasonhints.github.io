@@ -1,0 +1,8 @@
+{
+    "userphone":"18611848459",
+    "password":"testdata",
+    "channels":[
+        {"id":"10001","channelName":"新闻"},
+        {"id":"10002","channelName":"圈子"},
+        {"id":"10003","channelName":"关注"}]
+}

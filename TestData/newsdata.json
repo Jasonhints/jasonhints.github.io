@@ -1,0 +1,49 @@
+{   
+    "code":200,
+    "msg":"成功获取数据",
+    "news": [
+        {
+            "id": "1",
+            "title": "动视暴雪2020Q4财报解读：2022将是伟大的一年动视暴雪2020Q4财报解读：2022将是伟大的一年动视暴雪2020Q4财报解读：2022将是伟大的一年",
+            "timeIssued": "2021-02-06",
+            "author": "Blizzard",
+            "newsPic": "bliz.jpg"
+        },
+        {
+            "id": "2",
+            "title": "GEF国际电子竞技联合会八大工作委员会",
+            "timeIssued": "2021-02-06",
+            "author": "GEF",
+            "newsPic": "GEF.jpg"
+        },
+        {
+            "id": "3",
+            "title": "拳头的故事（四）：第一个全球性职业",
+            "timeIssued": "2021-02-06",
+            "author": "Roit",
+            "newsPic": "roitgames.jpg"
+        },
+        {
+            "id": "4",
+            "title": "F1历史上首次电子竞技虚拟大奖赛拉开帷幕中",
+            "timeIssued": "2021-02-06",
+            "author": "F1 Gamgin",
+            "newsPic": "f1game.jpg"
+        },
+        {
+            "id": "5",
+            "title": "58名主播被列入黑名单 包括4名电子竞技职业选手",
+            "timeIssued": "2021-02-06",
+            "author": "Esports",
+            "newsPic": "twitch.jpg"
+        },
+        {
+            "id": "6",
+            "title": "风靡全球的双人游戏，数学差的每次都输，不服可以来尝..",
+            "timeIssued": "2021-02-06",
+            "author": "Number Games",
+            "newsPic": "duogame.jpg"
+        }
+    ]
+    
+}
